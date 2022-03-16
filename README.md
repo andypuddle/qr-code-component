@@ -20,7 +20,7 @@ Front end mentor challenge QR Code Component
 
 ### Screenshot
 
-- [images/Screenshot 2022-03-16 182948.jpg]()
+- [Screenshot 2022-03-16 182948.jpg]()
 
 ### Links
 
