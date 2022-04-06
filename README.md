@@ -24,7 +24,6 @@ Front end mentor challenge QR Code Component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://andypuddle.github.io/qr-code-component/](https://your-live-site-url.com)
 
 ## My process
