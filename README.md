@@ -18,7 +18,7 @@ Front end mentor challenge QR Code Component
 
 ### Screenshot
 
-- [](Screenshot 2022-03-16 182948.jpg)
+- [screenshot](./Screenshot 2022-03-16 182948.jpg)
 
 ### Links
 - Solution: [Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-component-QHAgw9bor)
