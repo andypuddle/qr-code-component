@@ -12,19 +12,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Front end mentor challenge QR Code Component
 
 ### Screenshot
 
-- [Screenshot 2022-03-16 182948.jpg]()
+- [](Screenshot 2022-03-16 182948.jpg)
 
 ### Links
-
-- Live Site URL: [https://andypuddle.github.io/qr-code-component/](https://your-live-site-url.com)
+- Solution: [Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-component-QHAgw9bor)
+- Live Site URL: [github](https://andypuddle.github.io/qr-code-component/)
 
 ## My process
 
